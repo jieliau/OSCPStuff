@@ -1,0 +1,31 @@
+1) Windows Priviledge Escalation and pen-testing
+https://www.fuzzysecurity.com/tutorials/16.html
+https://github.com/ankh2054/windows-pentest
+
+
+2) Windows SC command
+https://blog.51cto.com/hukunlin/235229 (Simplified Chinese)
+
+
+3) Getting Shell after admin access in WordPress siet
+https://forum.top-hat-sec.com/index.php?topic=5758.0
+
+
+4) Github resources
+https://github.com/offensive-security/exploitdb-bin-sploits/tree/master/bin-sploits (offensive-security/exploitdb-bin-sploits)
+https://github.com/backlion/oscp-7 (backlion/oscp-7)
+https://github.com/gammathc/oscp_material/blob/master/oscp_notes.txt (gammathc/oscp_material)
+
+
+5) LFI to RCE
+https://medium.com/@Aptive/local-file-inclusion-lfi-web-application-penetration-testing-cc9dc8dd3601
+https://xz.aliyun.com/t/1249 (Simplified Chinese)
+http://www.am0s.com/penetration/133.html (Simplified Chinese)
+http://www.am0s.com/wp-content/uploads/2017/01/lfi%E4%B8%AD%E6%B3%84%E6%BC%8F%E4%BF%A1%E6%81%AF%E7%9A%84%E6%96%87%E4%BB%B6fuzz.txt (fuzz list - Simplified Chinese)
+https://resources.infosecinstitute.com/local-file-inclusion-code-execution/
+https://cyku.tw/lfi-leads-to-rce-via-session-file/amp/ (Chinese)
+
+
+6) Base64 decode web site
+https://www.base64decode.org/
+
