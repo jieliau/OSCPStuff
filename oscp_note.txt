@@ -26,8 +26,13 @@ https://resources.infosecinstitute.com/local-file-inclusion-code-execution/
 https://cyku.tw/lfi-leads-to-rce-via-session-file/amp/ (Chinese)
 https://github.com/3mrgnc3/LFIter2/blob/master/lfitr2.py (LFT checker on github)
 https://www.hackingarticles.in/rce-with-lfi-and-ssh-log-poisoning/ (LFI to RCE via SSH - Real Example)
+https://www.youtube.com/watch?v=b48dF7khyPs (Real case video)
 
 
 6) Base64 decode web site
 https://www.base64decode.org/
+# echo "base64 encode string" | base64 -d
 
+
+7) Reverse Shell Cheat Sheet
+https://www.phillips321.co.uk/2012/02/05/reverse-shell-cheat-sheet/
