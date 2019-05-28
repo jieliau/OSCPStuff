@@ -24,6 +24,8 @@ http://www.am0s.com/penetration/133.html (Simplified Chinese)
 http://www.am0s.com/wp-content/uploads/2017/01/lfi%E4%B8%AD%E6%B3%84%E6%BC%8F%E4%BF%A1%E6%81%AF%E7%9A%84%E6%96%87%E4%BB%B6fuzz.txt (fuzz list - Simplified Chinese)
 https://resources.infosecinstitute.com/local-file-inclusion-code-execution/
 https://cyku.tw/lfi-leads-to-rce-via-session-file/amp/ (Chinese)
+https://github.com/3mrgnc3/LFIter2/blob/master/lfitr2.py (LFT checker on github)
+https://www.hackingarticles.in/rce-with-lfi-and-ssh-log-poisoning/ (LFI to RCE via SSH - Real Example)
 
 
 6) Base64 decode web site
