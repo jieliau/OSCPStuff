@@ -1,6 +1,7 @@
 1) Windows Priviledge Escalation and pen-testing
 https://www.fuzzysecurity.com/tutorials/16.html
 https://github.com/ankh2054/windows-pentest
+https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/?fbclid=IwAR2glkqH_ql2PcRGN2ZX2avDQIkojry8waxjCTSw6qq4tX7fon8_-U556Lo
 
 
 2) Windows SC command
