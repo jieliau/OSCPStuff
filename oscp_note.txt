@@ -51,3 +51,8 @@ http://drops.xmd5.com/static/drops/tips-737.html
 
 10) Linux Kernel Priviledge Escalation
 https://github.com/Kabot/Unix-Privilege-Escalation-Exploits-Pack
+
+
+11) Buffer Overflow Stuff
+https://medium.com/@notsoshant/windows-exploitation-egg-hunting-117828020595
+
