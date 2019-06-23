@@ -17,6 +17,9 @@ https://github.com/offensive-security/exploitdb-bin-sploits/tree/master/bin-splo
 https://github.com/backlion/oscp-7 (backlion/oscp-7)
 https://github.com/gammathc/oscp_material/blob/master/oscp_notes.txt (gammathc/oscp_material)
 https://github.com/3mrgnc3/LFIter2/blob/master/lfitr2.py (LFI Checker)
+https://malikashish8.github.io/Walkthrough/notes/ (Other's OSCP notes)
+https://sushant747.gitbooks.io/total-oscp-guide/ (Other's OSCP otes)
+
 
 
 5) LFI to RCE
@@ -49,10 +52,21 @@ https://ionize.com.au/exploiting-apache-tomcat-port-8009-using-apache-jserv-prot
 http://drops.xmd5.com/static/drops/tips-737.html
 
 
-10) Linux Kernel Priviledge Escalation
+10) Linux Kernel Privilede Escalation
 https://github.com/Kabot/Unix-Privilege-Escalation-Exploits-Pack
 
 
 11) Buffer Overflow Stuff
 https://medium.com/@notsoshant/windows-exploitation-egg-hunting-117828020595
 
+
+12) Privilege Escalation Collection
+https://securism.wordpress.com/oscp-notes-privilege-escalation-linux/
+
+
+13) Udev privilege Escalation
+http://www.madirish.net/370
+
+
+14) Winexe
+https://daya.blog/2018/01/06/oscp-ref/
