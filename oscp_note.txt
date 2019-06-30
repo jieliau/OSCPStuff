@@ -19,7 +19,7 @@ https://github.com/gammathc/oscp_material/blob/master/oscp_notes.txt (gammathc/o
 https://github.com/3mrgnc3/LFIter2/blob/master/lfitr2.py (LFI Checker)
 https://malikashish8.github.io/Walkthrough/notes/ (Other's OSCP notes)
 https://sushant747.gitbooks.io/total-oscp-guide/ (Other's OSCP otes)
-
+https://github.com/ibr2/pwk-cheatsheet/blob/master/Go-For-OSCP.md (PWK Cheatsheet)
 
 
 5) LFI to RCE
@@ -70,3 +70,8 @@ http://www.madirish.net/370
 
 14) Winexe
 https://daya.blog/2018/01/06/oscp-ref/
+
+
+15) Port Knocking
+https://www.youtube.com/watch?v=sOy6pU8CaCU
+https://www.sans.org/reading-room/whitepapers/sysadmin/paper/1634
