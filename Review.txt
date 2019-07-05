@@ -1,4 +1,0 @@
-1) PWK BO Section (Windows and Linux)
-2) NFS root squash
-3) Shellshock
-4) LFI / RFI
