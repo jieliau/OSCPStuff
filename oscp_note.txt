@@ -80,3 +80,10 @@ https://www.sans.org/reading-room/whitepapers/sysadmin/paper/1634
 16) Windows Kernel Exploits
 https://411hall.github.io/assets/images/exploitexcel.png
 https://github.com/SecWiki/windows-kernel-exploits
+
+
+17) EthernalBlue exploit - MS17-010
+https://null-byte.wonderhowto.com/how-to/exploit-eternalblue-windows-server-with-metasploit-0195413/ (Using msfconsole)
+https://null-byte.wonderhowto.com/how-to/manually-exploit-eternalblue-windows-server-using-ms17-010-python-exploit-0195414/ (Using python manually)
+https://github.com/3ndG4me/AutoBlue-MS17-010
+https://github.com/worawit/MS17-010
