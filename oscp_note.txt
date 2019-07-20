@@ -87,3 +87,4 @@ https://null-byte.wonderhowto.com/how-to/exploit-eternalblue-windows-server-with
 https://null-byte.wonderhowto.com/how-to/manually-exploit-eternalblue-windows-server-using-ms17-010-python-exploit-0195414/ (Using python manually)
 https://github.com/3ndG4me/AutoBlue-MS17-010
 https://github.com/worawit/MS17-010
+https://www.r00tpgp.com/2018/10/exploiting-ms17-010-eternalblue.html
